@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "oBwuIZMfF9Q=",
+  "success": true,
+  "projectFilePath": "D:\\SCHAEFERKALK-Project\\SCHAEFERKALK\\SCHAEFERKALK.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wwwko\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\bitmiracle.libtiff.net.2.4.649.nupkg.sha512",
+    "C:\\Users\\wwwko\\.nuget\\packages\\harfbuzzsharp\\8.3.1.2\\harfbuzzsharp.8.3.1.2.nupkg.sha512",
+    "C:\\Users\\wwwko\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\8.3.1.2\\harfbuzzsharp.nativeassets.macos.8.3.1.2.nupkg.sha512",
+    "C:\\Users\\wwwko\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\8.3.1.2\\harfbuzzsharp.nativeassets.win32.8.3.1.2.nupkg.sha512",
+    "C:\\Users\\wwwko\\.nuget\\packages\\skiasharp\\3.119.1\\skiasharp.3.119.1.nupkg.sha512",
+    "C:\\Users\\wwwko\\.nuget\\packages\\skiasharp.harfbuzz\\3.119.1\\skiasharp.harfbuzz.3.119.1.nupkg.sha512",
+    "C:\\Users\\wwwko\\.nuget\\packages\\skiasharp.nativeassets.macos\\3.119.1\\skiasharp.nativeassets.macos.3.119.1.nupkg.sha512",
+    "C:\\Users\\wwwko\\.nuget\\packages\\skiasharp.nativeassets.win32\\3.119.1\\skiasharp.nativeassets.win32.3.119.1.nupkg.sha512",
+    "C:\\Users\\wwwko\\.nuget\\packages\\syncfusion.compression.net.core\\32.1.19\\syncfusion.compression.net.core.32.1.19.nupkg.sha512",
+    "C:\\Users\\wwwko\\.nuget\\packages\\syncfusion.docio.net.core\\32.1.19\\syncfusion.docio.net.core.32.1.19.nupkg.sha512",
+    "C:\\Users\\wwwko\\.nuget\\packages\\syncfusion.dociorenderer.net.core\\32.1.19\\syncfusion.dociorenderer.net.core.32.1.19.nupkg.sha512",
+    "C:\\Users\\wwwko\\.nuget\\packages\\syncfusion.licensing\\32.1.19\\syncfusion.licensing.32.1.19.nupkg.sha512",
+    "C:\\Users\\wwwko\\.nuget\\packages\\syncfusion.markdown\\32.1.19\\syncfusion.markdown.32.1.19.nupkg.sha512",
+    "C:\\Users\\wwwko\\.nuget\\packages\\syncfusion.metafilerenderer.net.core\\32.1.19\\syncfusion.metafilerenderer.net.core.32.1.19.nupkg.sha512",
+    "C:\\Users\\wwwko\\.nuget\\packages\\syncfusion.officechart.net.core\\32.1.19\\syncfusion.officechart.net.core.32.1.19.nupkg.sha512",
+    "C:\\Users\\wwwko\\.nuget\\packages\\syncfusion.pdf.imaging.net.core\\32.1.19\\syncfusion.pdf.imaging.net.core.32.1.19.nupkg.sha512",
+    "C:\\Users\\wwwko\\.nuget\\packages\\syncfusion.pdf.net.core\\32.1.19\\syncfusion.pdf.net.core.32.1.19.nupkg.sha512",
+    "C:\\Users\\wwwko\\.nuget\\packages\\syncfusion.skiasharphelper.net.core\\32.1.19\\syncfusion.skiasharphelper.net.core.32.1.19.nupkg.sha512",
+    "C:\\Users\\wwwko\\.nuget\\packages\\syncfusion.xlsio.net.core\\32.1.19\\syncfusion.xlsio.net.core.32.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}
